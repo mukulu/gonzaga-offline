@@ -1,0 +1,3 @@
+[submodule "quickqwerty"]
+	path = quickqwerty
+	url = https://github.com/mukulu/quickqwerty
